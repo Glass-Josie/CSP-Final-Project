@@ -1,2 +1,2 @@
 # CSP-Final-Project
-Final project, a game of memory match.
+Final project for AP Computer Science Priciples Course, a game of memory match.
